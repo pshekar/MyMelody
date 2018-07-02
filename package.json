@@ -1,0 +1,7 @@
+{
+    "name": "mymelody",
+    "version": "0.0.0",
+    "scripts": {
+        "postinstall": "cd my-melody/server && npm install"
+    }
+}
